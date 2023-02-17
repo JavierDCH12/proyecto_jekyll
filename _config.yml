@@ -43,7 +43,7 @@ header_pages:
 
 
 # Color of the web
-style: dark # dark (default), light or hacker
+style: light # dark (default), light or hacker
 
 # Exclude from processing.
 # The following items will not be processed, by default.
