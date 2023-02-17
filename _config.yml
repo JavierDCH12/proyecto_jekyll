@@ -37,9 +37,13 @@ plugins:
 
 # Pages displayed on the nav bar
 header_pages:
-  - home.html
-  - page.html
-  - post.html
+  - about.markdown
+
+
+
+
+# Color of the web
+style: dark # dark (default), light or hacker
 
 # Exclude from processing.
 # The following items will not be processed, by default.
