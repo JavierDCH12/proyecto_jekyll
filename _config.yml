@@ -37,8 +37,9 @@ plugins:
 
 # Pages displayed on the nav bar
 header_pages:
-  - index.md
-  - about.md
+  - home.html
+  - page.html
+  - post.html
 
 # Exclude from processing.
 # The following items will not be processed, by default.
