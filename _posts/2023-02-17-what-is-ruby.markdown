@@ -34,11 +34,3 @@ Algunos de los fines más recurrentes del uso de Ruby como lenguaje de programac
 - Web scraping
 
 
-## Ruby en la actualidad
-
-
-
-
-
-https://builtin.com/software-engineering-perspectives/ruby-programming-language para otro post
-
