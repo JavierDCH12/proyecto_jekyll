@@ -6,7 +6,9 @@ categories: ruby
 ---
 # Ruby, lenguaje de programación
 
-Creado en 1995 por el desarrollador japonés Yukihiro Matsumoto, Ruby es un lenguaje de programación **interpetado**, **reflexivo** y **altamente orientado a objetos** (además de ser *open-source*).
+Creado en 1995 por el desarrollador japonés Yukihiro Matsumoto, Ruby es un popular lenguaje de programación **interpetado**, **reflexivo** y **altamente orientado a objetos** (además de ser *open-source*).
+
+![Logo de Ruby](../assets/logo.png)
 
 Combinando la sintaxis de otros lenguajes como Python, Smalltalk o Perl, Ruby se enfoca en la simplicidad, la eficiencia y a la vez productividad como lenguaje, por lo que es recomendado para desarrolladores principiantes como primera toma de contacto con la programacion.
 
@@ -32,5 +34,7 @@ Algunos de los fines más recurrentes del uso de Ruby como lenguaje de programac
 - DevOps and automation
 - Web servers
 - Web scraping
+
+  Para el siguiente post...
 
 

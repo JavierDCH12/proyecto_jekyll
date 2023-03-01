@@ -6,3 +6,8 @@ layout: home
 title: Home
 
 ---
+
+**Bienvenido a Proyecto jekyll!**
+Un blog para hablar de Ruby y Jekyll.
+
+En formato CMD ;)
