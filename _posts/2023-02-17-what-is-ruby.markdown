@@ -5,12 +5,12 @@ date:   2023-02-17 17:20:21 +0100
 categories: ruby
 permalink: "/:year/:categories/what-is-ruby"
 ---
-<h1>Ruby, lenguaje de programación</h1>
+# RUBY, LENGUAJE DE PROGRAMACIÓN
 
 Creado en 1995 por el desarrollador japonés Yukihiro Matsumoto, Ruby es un popular lenguaje de programación **interpetado**, **reflexivo** y **altamente orientado a objetos** (además de ser *open-source*).
 
 
-<img src="{{ site.baseurl }}/assets/logo.png" alt="Logo de Ruby" width="300px" height="200px"
+<img src="{{ site.baseurl }}/assets/logo.png" alt="Logo de Ruby" width="600px" height="350px"
 style="display: block; margin: 0 auto;"/>
 
 Combinando la sintaxis de otros lenguajes como Python, Smalltalk o Perl, Ruby se enfoca en la simplicidad, la eficiencia y a la vez productividad como lenguaje, por lo que es recomendado para desarrolladores principiantes como primera toma de contacto con la programacion.

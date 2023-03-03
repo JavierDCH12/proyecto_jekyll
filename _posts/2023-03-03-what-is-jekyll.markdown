@@ -6,16 +6,17 @@ categories: ruby, jekyll
 permalink: "/:year/:categories/what-is-jekyll"
 ---
 
-# Jekyll, generador de sitios eb estáticos
+# JEKYLL, GENERADOR DE SITIOS WEB ESTÁTICOS
+
 
 Creado en 2008 por Tom Preston-Werner, Jekyll es un generador de sitios web estáticos (*Static site generator* o SSG), usado para la creación, por tanto, de páginas web estáticas de forma **sencilla**, **fiable** y **segura**
 
-<img src="{{ site.baseurl }}/assets/jekyll.jpg" alt="Logo de Jekyll" width="500px"
+<img src="{{ site.baseurl }}/assets/jekyll.jpg" alt="Logo de Jekyll" width="600px"
 style="display: block; margin: 0 auto;"/>
 
 Debido a su versatilidad y a la vez simplicidad (entendida en el buen sentido de la palabra), Jekyll se ha convertido en uno de los generadores más populares par crear blogs y webs informativas sencillas, debido a su capacidad para transformar documentos de texto plano como en formato HTML o Markdown.
 
-Además jekyll destaca por su capacidad de integración con Git y Github, incluido su despliegue en GithubPages (como ocurre con este blog!).
+Además jekyll destaca por su capacidad de integración con Git y Github, incluido su despliegue en GithubPages (como ocurre con este blog!).</
 
 ## Ventajas y Desventajas de Jekyll
 
