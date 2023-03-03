@@ -41,6 +41,9 @@ header_pages:
   - javier.markdown
   - about.markdown
 
+#Add a footer to the blog
+footer: 'follow me on <a href="https://github.com/JavierDCH12">GitHub</a>'
+
 
 
 
