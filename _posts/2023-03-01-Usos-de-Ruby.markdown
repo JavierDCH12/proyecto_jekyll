@@ -36,11 +36,6 @@ Ruby trae diferentes librerías que faciliante la tarea de web scraping, como [V
 
 Si quieres comenzar con RUBY, te recomiendo este curso-vídeo de 4 horas de FreeCodeCamp para aprender lo básico en este fascinante lenguaje de programación.
 
-<iframe id="ruby"
-    title="Aprendiendo Ruby"
-    width="300"
-    height="200"
-    src="https://www.youtube.com/watch?v=t_ispmWmdjY">
-</iframe>
+<iframe width="956" height="538" src="https://www.youtube.com/embed/t_ispmWmdjY" title="Ruby Programming Language - Full Course" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
