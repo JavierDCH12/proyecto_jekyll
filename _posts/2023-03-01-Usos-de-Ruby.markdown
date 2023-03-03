@@ -16,7 +16,7 @@ En este post, presentamos algunas de ellas:
 
 Si por algo es conocido Ruby en la actualidad es por su amplio uso y fácil adaptación para el desarrollo de páginas web, especialmente generadored estático de páginas web como JEKYLL (el usado aquí!). 
 
-Generadores estáticos como Jekyll, sostenidos por Ruby, son ideales para aquellas web menos dinñamicas, de pocos cambios, pero con la misma necesidad de seguridad y eficiancia (lo que Ruby y Jekyll proveen con facilidad).
+Generadores estáticos como Jekyll, sostenidos por Ruby, son ideales para aquellas web menos dinñamicas, de pocos cambios, pero con la misma necesidad de seguridad y eficiencia (lo que Ruby y Jekyll proveen con facilidad).
 
 ### DevOps y Automatización
 
