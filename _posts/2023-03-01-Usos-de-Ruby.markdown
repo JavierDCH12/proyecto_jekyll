@@ -3,6 +3,7 @@ layout: post
 title:  "Usos de Ruby"
 date:   2023-03-01 17:20:21 +0100
 categories: ruby
+permalink: "/:year/:categories/usos-de-ruby"
 ---
 
 # Usos de Ruby en la actualidad
